@@ -19,3 +19,9 @@ Made for the PSDViewer demo.
 
 - psd-demo.psd
 - psd-demo.png
+
+Self taken screenshots of the Demo pages
+
+- demo/desktop-preview.png
+- demo/maze-preview.png
+- demo/media-preview.png
